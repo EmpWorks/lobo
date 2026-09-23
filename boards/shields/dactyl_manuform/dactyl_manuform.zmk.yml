@@ -6,6 +6,7 @@ url: https://github.com/abstracthat/dactyl-manuform
 requires: [pro_micro]
 features:
   - keys
+  - encoder
 siblings:
   - dactyl_manuform_left
   - dactyl_manuform_right
