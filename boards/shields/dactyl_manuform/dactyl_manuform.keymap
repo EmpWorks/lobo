@@ -18,7 +18,7 @@
         default_layer {
             display-name = "Default";
             bindings = <
-                                        &kp N3    &kp N4   &kp N5   &trans                                     &trans     &kp N6    &kp N7  &kp N8    
+                                        &kp N3    &kp N4   &kp N5   &bt BT_CLR                                 &bt BT_CLR &kp N6    &kp N7  &kp N8    
            &kp ESC   &kp N1   &kp N2    &kp E    &kp R     &kp T    &trans                                     &trans     &kp Y     &kp U   &kp I      &kp N9    &kp N0   &kp GRAVE    
            &kp TAB   &kp Q    &kp W     &kp D    &kp F     &kp G    &trans                                     &trans     &kp H     &kp J   &kp K      &kp O     &kp P    &kp MINUS 
            &kp LCTRL &kp A    &kp S     &kp C    &kp V     &kp B    &trans       &kp LBKT           &kp RBKT   &trans     &kp N     &kp M   &kp COMMA  &kp L     &kp SEMI &kp SQT
